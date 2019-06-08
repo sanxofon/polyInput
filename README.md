@@ -12,7 +12,7 @@
 
 * **[w3.css](w3.css)**
 * **[font-awesome.min.css](font-awesome.min.css)**
-  - Modified version to work with [font](font/) folder for local testing.
+  - Modified version to work with [font/](font/) folder for local testing.
   - Official font-awesome (4.7.0) resides [here](https://cdnjs.com/libraries/font-awesome/4.7.0)
 
 
