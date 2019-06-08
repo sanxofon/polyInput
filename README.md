@@ -5,44 +5,46 @@
 
 ## JS dependencies:
 
-* [konva.min.js](konva.min.js)
-* [idletimer.js](idletimer.js)
+* **[konva.min.js](konva.min.js)**
+* **[idletimer.js](idletimer.js)**
 
 ## CSS dependencies
 
-* [w3.css](w3.css)
-* [font-awesome.min.css](font-awesome.min.css)
-
-## Test only JS dependencies:
-
-* [loremIpsum.js](loremIpsum.js)
+* **[w3.css](w3.css)**
+* **[font-awesome.min.css](font-awesome.min.css)**
+  - Modified version to work with [font](font/) folder for local testing.
+  - Official font-awesome (4.7.0) resides [here](https://cdnjs.com/libraries/font-awesome/4.7.0)
 
 
 # Contents
 
 ## PHP:
 
-* [polyInput.server.php](polyInput.server.php)
-* [polyInput.client.php](polyInput.client.php)
+* **[polyInput.server.php](polyInput.server.php)**
+* **[polyInput.client.php](polyInput.client.php)**
 
 
 ## JS:
 
-* [polyInput.client.js](polyInput.client.js)
-* [polyInput.konva.js](polyInput.konva.js)
+* **[polyInput.client.js](polyInput.client.js)**
+* **[polyInput.konva.js](polyInput.konva.js)**
 
 
 ## CSS:
 
-* [polyInput.client.css](polyInput.client.css)
+* **[polyInput.client.css](polyInput.client.css)**
 
 
 ## USER JSON:
 
-* [polyInput.server.json](polyInput.server.json)
+* **[polyInput.server.json](polyInput.server.json)**
 
 
 # Extras
+
+## Test only JS dependencies:
+
+* [loremIpsum.js](loremIpsum.js)
 
 ## Meassurments of triangle:
 
