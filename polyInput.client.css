@@ -1,0 +1,132 @@
+/* Note: W3 CSS Dependency */
+/* Links */
+a, a:focus, a:hover { color: #fff; }
+/*a { text-decoration: none; }*/
+/* Base structure */
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color: #333;
+}
+body {
+  color: #fff;
+  /*text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);*/
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+/* quick objects */
+t { font-weight: normal; font-style: normal; }
+b { font-weight: bold; }
+i { font-style: italic; }
+.c-pointer{ cursor: pointer; }
+/* quick custom colors */
+.c-black { color: #000; }
+.c-dgray { color: #666; }
+.c-gray { color: gray; }
+.c-lgray { color: #aaa; }
+.c-white { color: #fff; }
+.c-red { color: red; }
+.c-cyan { color: #00bcd4; }
+.b-red { background-color: red; }
+.b-cyan { background-color: #00bcd4; }
+p,h1,h2,h3,h4,h5,h6,div,ol,ul,li { margin: 0; }
+.pad-0 { padding: 0; }
+.pad-4 { padding: 4px; }
+.pad-8 { padding: 8px; }
+.pad-16 { padding: 16px; }
+.pad-24 { padding: 24px; }
+.pad-36 { padding: 36px; }
+.pad-48 { padding: 48px; }
+.pad-64 {  padding: 64px; }
+.pad-button { padding: 5px;padding-left: 10px;padding-right: 10px; }
+/* CUSTOM FOR TEMPLATE*/
+#poly-container {
+  /*margin: 2vw;*/
+}
+.konvajs-content {
+  margin: 0 auto !important;
+}
+.maxwidth {
+  max-width: 1340px;
+  margin: 0 auto;
+}
+.full-container {
+  margin: 4px;
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  border:1px solid #616161;
+  border-radius: 6px;
+}
+header {
+  height: 70px;
+  overflow: hidden;
+  background-color: #202020;
+}
+footer {
+  height: 70px;
+  overflow: hidden;
+  color: #888;
+}
+hr {
+  border-color: #888;
+}
+.full-container hr {
+  border-color: #444;
+}
+a.w3-disabled {
+  pointer-events: none;
+  cursor: default;
+  background-color: #666 !important;
+}
+#consola {
+  z-index: 9999;
+  border-top: 1px solid red;
+  height: 35px;
+  overflow: auto;
+  background-color: #202020;
+  font-size: 1.5em;
+  unicode-bidi: embed;
+  font-family: monospace;
+  white-space: pre;
+}
+.consola-expandida {
+  height: 30vh !important;
+}
+#consola button {
+  margin-right: 20px !important;
+}
+#consolaTit {
+  background-color: rgba(20,20,20,0.8);
+  font-family: monospace;
+  font-size: 12px;
+  padding-left: 10px;
+}
+.w3-modal {
+  background-color: rgba(30,30,30,0.95);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+#modalPausa .w3-modal-content {
+  background-color: transparent;
+/*border: 2px solid #000;
+border-radius: 6px;*/
+/*width: 30vh !important;
+max-width: 90vw;
+height: 30vh;*/
+}
+#modalAyuda .w3-modal-content {
+  background-color: #404040;
+  box-shadow: 0 0 5rem rgba(0, 0, 0, .5);
+}
+.w3-scroller {
+  position: relative;
+  width: 100%;
+  max-height: 640px !important;
+  min-height: 340px !important;
+  overflow: auto;
+}
+.w3-padding-8 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+p:first-letter {
+  text-transform:capitalize;
+}
