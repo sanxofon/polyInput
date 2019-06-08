@@ -60,4 +60,5 @@
 * **Santiago Chávez** ([La Lengua](https://lengua.la))
  
 # License
-* **./[LICENSE.md](LICENSE.md)**
+* Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International
+  - **./[LICENSE.md](LICENSE.md)**
