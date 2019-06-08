@@ -45,18 +45,10 @@
 
 # Extras
 
-## Test only JS dependencies:
-
-* **[loremIpsum.js](loremIpsum.js)**
+* **[loremIpsum.js](loremIpsum.js)** (Test only JS dependency)
   - [Lorem Ipsum generator](https://github.com/fffilo/lorem-ipsum-js) is a JavaScript random text generator.
-
-## Meassurments of triangle:
-
 * **[EquilateroRadio1.pdf](EquilateroRadio1.pdf)**
   - Meassurments and triangle distance calculations used for **[polyInput.konva.js](polyInput.konva.js)**.
-
-## MD
-
 * **[README.md](README.md)**
   - This [markdown](https://en.wikipedia.org/wiki/Markdown) file.
 
