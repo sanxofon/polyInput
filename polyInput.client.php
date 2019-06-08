@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="MentalCORE">
+    <meta name="description" content="polyInput">
     <meta name="author" content="Santiago Chávez">
-    <meta name="generator" content="MentalCORE">
-    <title>MentalCORE</title>
+    <meta name="generator" content="polyInput">
+    <title>polyInput</title>
 
     <link rel="canonical" href="https://localhost/">
 
