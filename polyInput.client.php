@@ -54,7 +54,7 @@
 
     <header class="w3-top">
       <div class="w3-bar maxwidth">
-        <div class="w3-bar-item" href="#" style="margin-top: 0px;font-size: 2rem;"><t class="c-gray">Mental</t><b class="c-red">CORE</b></div>
+        <div class="w3-bar-item" href="#" style="margin-top: 0px;font-size: 2rem;"><t class="c-gray">Poly</t><b class="c-red">INPUT</b></div>
         <div class="w3-bar-item w3-right" style="margin-top: 8px;">
           <a class="w3-button w3-dark-gray w3-border w3-border-black w3-round w3-text-light-gray w3-large pad-button" id="btnAyuda"><i class="fa fa-question-circle w3-xxlarge"></i></a>
           <a class="w3-button w3-cyan w3-border w3-border-black w3-round w3-large pad-button" id="btnPausa"><i class="fa fa-pause w3-xxlarge"></i></a></div>
