@@ -93,7 +93,7 @@
     </div>
 
     <footer class="w3-container pad-24 w3-center">
-      <p>&copy; <b>Núcleo Cero S.C.</b> (2017-<?php echo date("Y"); ?>)</p>
+      <p>&copy; <b>Santiago Chávez</b> (2017-<?php echo date("Y"); ?>)</p>
     </footer>
 
     <div class="w3-display-bottomleft" style="position: fixed;z-index: 99999;"><span id="ttiempo" class="w3-button w3-small w3-black" onclick="vaciarDatos();" title="Vaciar datos"></span> <span id="tiempo" class="w3-button w3-small w3-black" onclick="tiempo=1;" title="Reiniciar tiempo de la pregunta"></span> <span class="w3-button w3-small w3-dark-gray" onclick="document.querySelector('#consola').classList.toggle('consola-expandida');this.firstChild.classList.toggle('fa-plus-square');this.firstChild.classList.toggle('fa-minus-square');"><i class="fa fa-plus-square"></i></span><span id="consolaTit"></span></div>
