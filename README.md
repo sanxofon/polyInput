@@ -61,4 +61,4 @@
  
 # License
 * Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International
-  - **./[LICENSE.md](LICENSE.md)**
+  - **[LICENSE.md](LICENSE.md)**
