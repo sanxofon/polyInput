@@ -21,9 +21,6 @@
 
 # Contents
 
-* **[README.md](README.md)**
-  - This [markdown](https://en.wikipedia.org/wiki/Markdown) file
-
 ## PHP:
 
 * **[polyInput.server.php](polyInput.server.php)**
@@ -57,6 +54,11 @@
 
 * **[EquilateroRadio1.pdf](EquilateroRadio1.pdf)**
   - Meassurments and triangle distance calculations used for **[polyInput.konva.js](polyInput.konva.js)**.
+
+## MD
+
+* **[README.md](README.md)**
+  - This [markdown](https://en.wikipedia.org/wiki/Markdown) file.
 
 # Author
 
