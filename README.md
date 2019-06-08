@@ -62,6 +62,11 @@
 * **[README.md](README.md)**
   - This [markdown](https://en.wikipedia.org/wiki/Markdown) file.
 
+# Install
+
+* **Just copy everything on some localhost forder (php 5.4+) and visit [polyInput.client.php](polyInput.client.php) with your browser.**
+* It should be easy to change PHP to some other server side language as most magic happens in javascript.
+
 # ToDo Checklist
 
 - [x] Finish basic working implementation
