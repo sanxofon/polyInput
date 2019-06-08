@@ -1,13 +1,14 @@
 # polyInput
- PolyInput is an ES6 modern (JS Client -PHP Server) cross-browser mobile ready online/offline evaluation system.
+
+### PolyInput is an ES6 modern (JS Client -PHP Server) cross-browser mobile ready online/offline evaluation system.
 
 ![2 to 9 free/snaped/middlepoints selector](ScreenCapture1.png)
  
- Konva.js dependent ES6 canvas polygonal input selector (click/touch/drag ready). Cross-browser (modern browsers tested).
+### Konva.js dependent ES6 canvas polygonal input selector (click/touch/drag ready). Cross-browser (modern browsers tested).
 
 ![2 to 9 free/snaped/middlepoints selector](ScreenCapture2.png)
  
- ES6/Localstorage/Fetch **2 to 9** free/snaped/middlepoints selector with built-in console debbuging.
+### ES6/Localstorage/Fetch **2 to 9** free/snaped/middlepoints selector with built-in console debbuging.
 
 
 # Dependencies
