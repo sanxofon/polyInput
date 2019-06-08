@@ -52,6 +52,22 @@
 * **[README.md](README.md)**
   - This [markdown](https://en.wikipedia.org/wiki/Markdown) file.
 
+# ToDo Checklist
+
+- [x] Finish basic working implementation
+- [x] 2 to 9 option selectors
+- [x] Middle points between adjacent options (specially for 2 & 3 option selectors)
+- [x] Free and snapped position selection
+- [x] `LocalStorage` implementation and intelligent posting and updating to server via JS `Fetch`
+- [x] Cross modern browser desktop testing
+- [ ] Cross modern browser mobile testing
+- [ ] Full working `offline` implementation
+- [ ] Full tests and debugging
+- [ ] Real question implementation (should come from server)
+- [ ] Image in question implementation
+- [ ] Specific user JSON implementation
+- [ ] Make `polyInput.konva.js` a class extension of konva.js
+
 # Author
 
 * **Santiago Chávez** ([La Lengua](https://lengua.la))
