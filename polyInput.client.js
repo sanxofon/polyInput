@@ -202,7 +202,7 @@
     }
     // Nueva pregunta
     window.scrollTo(0, 0);// Sube el scrill de la página
-    sides = getRndInteger(2,3); // tiramos los dados tara el test
+    sides = getRndInteger(2,9); // tiramos los dados tara el test
     poly = new polyInputKonva(sides,'#poly-container');
     leerDatos(); // Carga los datos preexistentes
     // Llenar los Datos
