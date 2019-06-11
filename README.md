@@ -75,12 +75,12 @@
 - [x] Free and snapped position selection
 - [x] `LocalStorage` implementation and intelligent posting and updating to server via JS `Fetch`
 - [x] Cross modern browser desktop testing
-- [ ] Cross modern browser mobile testing
-- [ ] Full working `offline` implementation
-- [ ] Full tests and debugging
 - [ ] Real question implementation (should come from server)
 - [ ] Image in question implementation
 - [ ] Specific user JSON implementation
+- [ ] Cross modern browser mobile testing
+- [ ] Full tests and debugging
+- [ ] Full working `offline` implementation
 - [ ] Make `polyInput.konva.js` a class extension of konva.js
 
 # Author
